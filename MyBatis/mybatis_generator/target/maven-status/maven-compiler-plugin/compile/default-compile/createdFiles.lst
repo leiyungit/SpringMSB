@@ -1,0 +1,5 @@
+com/msb/dao/UserMapper.class
+com/msb/domain/User.class
+com/msb/dao/AccountMapper.class
+com/msb/domain/Account.class
+com/msb/GeneratorTest.class

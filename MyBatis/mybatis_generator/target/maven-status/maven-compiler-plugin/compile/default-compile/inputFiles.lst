@@ -1,0 +1,5 @@
+/home/leiyun/IdeaProjects/gitdemo/SpringMSB/MyBatis/mybatis_generator/src/main/java/com/msb/domain/User.java
+/home/leiyun/IdeaProjects/gitdemo/SpringMSB/MyBatis/mybatis_generator/src/main/java/com/msb/dao/UserMapper.java
+/home/leiyun/IdeaProjects/gitdemo/SpringMSB/MyBatis/mybatis_generator/src/main/java/com/msb/domain/Account.java
+/home/leiyun/IdeaProjects/gitdemo/SpringMSB/MyBatis/mybatis_generator/src/main/java/com/msb/dao/AccountMapper.java
+/home/leiyun/IdeaProjects/gitdemo/SpringMSB/MyBatis/mybatis_generator/src/main/java/com/msb/GeneratorTest.java
